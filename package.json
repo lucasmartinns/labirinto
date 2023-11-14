@@ -1,0 +1,24 @@
+{
+  "name": "labirinto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmartinns/labirinto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmartinns/labirinto/issues"
+  },
+  "homepage": "https://github.com/lucasmartinns/labirinto#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
